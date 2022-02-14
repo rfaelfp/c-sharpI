@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1042942e-1f22-4db9-862b-89375b170096": {
+      "ProjectGuid": "1042942e-1f22-4db9-862b-89375b170096",
+      "DisplayName": "xadrez-console",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

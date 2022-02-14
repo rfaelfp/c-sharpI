@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afe8dc91-6a6a-4b33-b0d9-1bb002e105af": {
+      "ProjectGuid": "afe8dc91-6a6a-4b33-b0d9-1bb002e105af",
+      "DisplayName": "ConversorMoeda",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

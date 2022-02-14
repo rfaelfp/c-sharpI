@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ControleFornecedor.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ControleFornecedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ControleFornecedor.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ControleFornecedor.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ControleFornecedor.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\bin\Debug\net5.0\ControleFornecedor.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\bin\Debug\net5.0\ControleFornecedor.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\bin\Debug\net5.0\ControleFornecedor.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\bin\Debug\net5.0\ControleFornecedor.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\bin\Debug\net5.0\ControleFornecedor.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\bin\Debug\net5.0\ref\ControleFornecedor.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\bin\Debug\net5.0\ControleFornecedor.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ControleFornecedor.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ref\ControleFornecedor.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ControleFornecedor.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\ControleFornecedor\ControleFornecedor\obj\Debug\net5.0\ControleFornecedor.genruntimeconfig.cache

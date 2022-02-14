@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\bin\Debug\net5.0\Inheritance8.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\bin\Debug\net5.0\Inheritance8.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\bin\Debug\net5.0\Inheritance8.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\bin\Debug\net5.0\Inheritance8.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\bin\Debug\net5.0\Inheritance8.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\bin\Debug\net5.0\ref\Inheritance8.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\bin\Debug\net5.0\Inheritance8.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\Inheritance8.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\Inheritance8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\Inheritance8.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\Inheritance8.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\Inheritance8.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\Inheritance8.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\ref\Inheritance8.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\Inheritance8.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance8\Inheritance8\obj\Debug\net5.0\Inheritance8.genruntimeconfig.cache

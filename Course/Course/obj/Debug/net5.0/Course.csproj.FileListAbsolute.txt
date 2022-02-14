@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\bin\Debug\net5.0\Course.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\bin\Debug\net5.0\Course.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\bin\Debug\net5.0\Course.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\bin\Debug\net5.0\ref\Course.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\bin\Debug\net5.0\Course.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\Course.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\ref\Course.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\Course.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache

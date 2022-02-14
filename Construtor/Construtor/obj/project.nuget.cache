@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCRNIaU1fXuiQFHUlZXOcZtLecGzNMQjinD+qZc0IYeTTYt04E2s4+KwfjaaAu0CVfrZo7yvJM6a7zem1MJmWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\Documents\\Desenvolvimento\\c-sharp\\Construtor\\Construtor\\Construtor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\bin\Debug\net5.0\PostComment.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\bin\Debug\net5.0\PostComment.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\bin\Debug\net5.0\PostComment.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\bin\Debug\net5.0\PostComment.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\bin\Debug\net5.0\PostComment.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\bin\Debug\net5.0\ref\PostComment.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\bin\Debug\net5.0\PostComment.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\PostComment.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\PostComment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\PostComment.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\PostComment.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\PostComment.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\PostComment.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\ref\PostComment.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\PostComment.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\PostComment\PostComment\obj\Debug\net5.0\PostComment.genruntimeconfig.cache

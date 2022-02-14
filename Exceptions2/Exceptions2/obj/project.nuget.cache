@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bpSYgu9JN48UDZ5YO3xaniP4puvrmwQ4eoqQEuQQuZ9k+0W52jRSwewyIPXF/RXjFB7Rr5hV5cVS1+FHc1GPmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\Documents\\Desenvolvimento\\c-sharp\\Exceptions2\\Exceptions2\\Exceptions2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f169f8e-af98-44cf-b62d-d688fd158b96": {
+      "ProjectGuid": "0f169f8e-af98-44cf-b62d-d688fd158b96",
+      "DisplayName": "BankAccount",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

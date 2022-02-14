@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\bin\Debug\net5.0\Exceptions2.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\bin\Debug\net5.0\Exceptions2.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\bin\Debug\net5.0\Exceptions2.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\bin\Debug\net5.0\Exceptions2.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\bin\Debug\net5.0\Exceptions2.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\bin\Debug\net5.0\ref\Exceptions2.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\bin\Debug\net5.0\Exceptions2.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\Exceptions2.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\Exceptions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\Exceptions2.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\Exceptions2.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\Exceptions2.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\Exceptions2.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\ref\Exceptions2.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\Exceptions2.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Exceptions2\Exceptions2\obj\Debug\net5.0\Exceptions2.genruntimeconfig.cache

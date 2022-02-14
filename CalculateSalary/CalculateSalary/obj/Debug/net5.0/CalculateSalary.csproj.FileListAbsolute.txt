@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\CalculateSalary.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\CalculateSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\CalculateSalary.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\CalculateSalary.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\CalculateSalary.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\bin\Debug\net5.0\CalculateSalary.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\bin\Debug\net5.0\CalculateSalary.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\bin\Debug\net5.0\CalculateSalary.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\bin\Debug\net5.0\CalculateSalary.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\bin\Debug\net5.0\CalculateSalary.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\bin\Debug\net5.0\ref\CalculateSalary.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\bin\Debug\net5.0\CalculateSalary.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\CalculateSalary.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\ref\CalculateSalary.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\CalculateSalary.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\CalculateSalary\CalculateSalary\obj\Debug\net5.0\CalculateSalary.genruntimeconfig.cache

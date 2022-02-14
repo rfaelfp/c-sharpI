@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\Order.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\Order.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\Order.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\bin\Debug\net5.0\Order.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\bin\Debug\net5.0\Order.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\bin\Debug\net5.0\Order.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\bin\Debug\net5.0\Order.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\bin\Debug\net5.0\Order.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\bin\Debug\net5.0\ref\Order.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\bin\Debug\net5.0\Order.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\Order.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\ref\Order.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\Order.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Order\Order\obj\Debug\net5.0\Order.genruntimeconfig.cache

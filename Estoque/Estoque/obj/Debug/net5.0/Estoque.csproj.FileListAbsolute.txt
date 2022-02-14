@@ -1,0 +1,15 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\bin\Debug\net5.0\Estoque.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\bin\Debug\net5.0\Estoque.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\bin\Debug\net5.0\Estoque.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\bin\Debug\net5.0\Estoque.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\bin\Debug\net5.0\Estoque.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\bin\Debug\net5.0\ref\Estoque.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\bin\Debug\net5.0\Estoque.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\obj\Debug\net5.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\obj\Debug\net5.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\obj\Debug\net5.0\Estoque.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\obj\Debug\net5.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\obj\Debug\net5.0\Estoque.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\obj\Debug\net5.0\ref\Estoque.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\obj\Debug\net5.0\Estoque.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Estoque\Estoque\obj\Debug\net5.0\Estoque.genruntimeconfig.cache

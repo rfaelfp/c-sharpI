@@ -1,0 +1,15 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\bin\Debug\net5.0\Couse.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\bin\Debug\net5.0\Couse.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\bin\Debug\net5.0\Couse.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\bin\Debug\net5.0\Couse.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\bin\Debug\net5.0\Couse.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\bin\Debug\net5.0\ref\Couse.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\bin\Debug\net5.0\Couse.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\obj\Debug\net5.0\Couse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\obj\Debug\net5.0\Couse.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\obj\Debug\net5.0\Couse.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\obj\Debug\net5.0\Couse.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\obj\Debug\net5.0\Couse.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\obj\Debug\net5.0\ref\Couse.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\obj\Debug\net5.0\Couse.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Couse\Couse\obj\Debug\net5.0\Couse.genruntimeconfig.cache

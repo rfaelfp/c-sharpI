@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\bin\Debug\net5.0\ref\Pensionato.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\ref\Pensionato.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.genruntimeconfig.cache

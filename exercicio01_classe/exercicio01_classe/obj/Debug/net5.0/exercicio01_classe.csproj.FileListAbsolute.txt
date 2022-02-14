@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\bin\Debug\net5.0\exercicio01_classe.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\bin\Debug\net5.0\exercicio01_classe.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\bin\Debug\net5.0\exercicio01_classe.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\bin\Debug\net5.0\exercicio01_classe.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\bin\Debug\net5.0\exercicio01_classe.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\bin\Debug\net5.0\ref\exercicio01_classe.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\bin\Debug\net5.0\exercicio01_classe.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\exercicio01_classe.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\exercicio01_classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\exercicio01_classe.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\exercicio01_classe.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\exercicio01_classe.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\exercicio01_classe.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\ref\exercicio01_classe.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\exercicio01_classe.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\exercicio01_classe\exercicio01_classe\obj\Debug\net5.0\exercicio01_classe.genruntimeconfig.cache

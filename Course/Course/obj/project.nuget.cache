@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QN0kSAy/sA1k1MOZZ7yx2Zfmi7LX/lwdq7f4Rv/1mlQm3zbfFhmOkeSyvjdBxc2oa9gWor3KhS1ixEQQ0T3RjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\Documents\\Desenvolvimento\\c-sharp\\Course\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

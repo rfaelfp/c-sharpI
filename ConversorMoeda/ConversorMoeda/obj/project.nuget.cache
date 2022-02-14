@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRZdr32SFXXUaPDqu2rfQPDVCODjdunt0WeuI8vTq10xFfinErDILynBkSLMKHKgenZ3Uq5vQWvoRH/vlNC6Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\Documents\\Desenvolvimento\\c-sharp\\ConversorMoeda\\ConversorMoeda\\ConversorMoeda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\bin\Debug\net5.0\Construtor.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\bin\Debug\net5.0\Construtor.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\bin\Debug\net5.0\Construtor.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\bin\Debug\net5.0\Construtor.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\bin\Debug\net5.0\Construtor.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\bin\Debug\net5.0\ref\Construtor.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\bin\Debug\net5.0\Construtor.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\Construtor.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\Construtor.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\Construtor.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\Construtor.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\Construtor.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\ref\Construtor.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\Construtor.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Construtor\Construtor\obj\Debug\net5.0\Construtor.genruntimeconfig.cache

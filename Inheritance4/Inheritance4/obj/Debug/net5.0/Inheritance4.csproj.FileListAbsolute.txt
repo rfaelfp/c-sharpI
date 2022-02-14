@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\bin\Debug\net5.0\Inheritance4.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\bin\Debug\net5.0\Inheritance4.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\bin\Debug\net5.0\Inheritance4.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\bin\Debug\net5.0\Inheritance4.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\bin\Debug\net5.0\Inheritance4.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\bin\Debug\net5.0\ref\Inheritance4.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\bin\Debug\net5.0\Inheritance4.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\Inheritance4.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\Inheritance4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\Inheritance4.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\Inheritance4.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\Inheritance4.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\Inheritance4.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\ref\Inheritance4.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\Inheritance4.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\Inheritance4\Inheritance4\obj\Debug\net5.0\Inheritance4.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZ28nmqtPPpSjqEs5JanWB/zXR93SpC01gT2RuxFk8O2oYzspzlmCT0Dhw+zUs7JYIgFm/6ziBYlSBLiUKJjfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\Documents\\Desenvolvimento\\c-sharp\\CalculateSalary\\CalculateSalary\\CalculateSalary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

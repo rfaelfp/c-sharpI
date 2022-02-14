@@ -1,0 +1,16 @@
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\bin\Debug\net5.0\conta_bancária.exe
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\bin\Debug\net5.0\conta_bancária.deps.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\bin\Debug\net5.0\conta_bancária.runtimeconfig.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\bin\Debug\net5.0\conta_bancária.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\bin\Debug\net5.0\conta_bancária.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\bin\Debug\net5.0\ref\conta_bancária.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\bin\Debug\net5.0\conta_bancária.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\conta_bancária.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\conta_bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\conta_bancária.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\conta_bancária.AssemblyInfo.cs
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\conta_bancária.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\conta_bancária.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\ref\conta_bancária.dll
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\conta_bancária.pdb
+C:\Users\rafae\Documents\Desenvolvimento\c-sharp\conta_bancária\conta_bancária\obj\Debug\net5.0\conta_bancária.genruntimeconfig.cache

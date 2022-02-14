@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "328cc466-3ec1-4c8e-ac88-a9a089e63c94": {
+      "ProjectGuid": "328cc466-3ec1-4c8e-ac88-a9a089e63c94",
+      "DisplayName": "CalculateSalary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

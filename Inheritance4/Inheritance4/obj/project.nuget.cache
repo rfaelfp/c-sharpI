@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyRvzeDYXfgs0EzSkxjZuI2xsKh0zSyD89sejzJJoo5knsX+lX1fO8dkDnAkbxiEz1rnWT1r5L1Cz1pOcnxAdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\Documents\\Desenvolvimento\\c-sharp\\Inheritance4\\Inheritance4\\Inheritance4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
