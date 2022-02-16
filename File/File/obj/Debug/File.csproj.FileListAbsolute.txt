@@ -1,0 +1,8 @@
+C:\Users\Rafael\source\repos\File\File\bin\Debug\File.exe.config
+C:\Users\Rafael\source\repos\File\File\bin\Debug\File.exe
+C:\Users\Rafael\source\repos\File\File\bin\Debug\File.pdb
+C:\Users\Rafael\source\repos\File\File\obj\Debug\File.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\File\File\obj\Debug\File.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\source\repos\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\File\File\obj\Debug\File.exe
+C:\Users\Rafael\source\repos\File\File\obj\Debug\File.pdb
