@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Generics1\Generics1\bin\Debug\Generics1.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Generics1\Generics1\bin\Debug\Generics1.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Generics1\Generics1\bin\Debug\Generics1.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Generics1\Generics1\obj\Debug\Generics1.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Generics1\Generics1\obj\Debug\Generics1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Generics1\Generics1\obj\Debug\Generics1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Generics1\Generics1\obj\Debug\Generics1.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Generics1\Generics1\obj\Debug\Generics1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\HashSetESortedSet\HashSetESortedSet\bin\Debug\HashSetESortedSet.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\HashSetESortedSet\HashSetESortedSet\bin\Debug\HashSetESortedSet.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\HashSetESortedSet\HashSetESortedSet\bin\Debug\HashSetESortedSet.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\HashSetESortedSet\HashSetESortedSet\obj\Debug\HashSetESortedSet.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\HashSetESortedSet\HashSetESortedSet\obj\Debug\HashSetESortedSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\HashSetESortedSet\HashSetESortedSet\obj\Debug\HashSetESortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\HashSetESortedSet\HashSetESortedSet\obj\Debug\HashSetESortedSet.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\HashSetESortedSet\HashSetESortedSet\obj\Debug\HashSetESortedSet.pdb

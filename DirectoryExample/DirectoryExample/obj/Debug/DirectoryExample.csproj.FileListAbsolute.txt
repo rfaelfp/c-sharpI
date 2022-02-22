@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\DirectoryExample\DirectoryExample\bin\Debug\DirectoryExample.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\DirectoryExample\DirectoryExample\obj\Debug\DirectoryExample.pdb

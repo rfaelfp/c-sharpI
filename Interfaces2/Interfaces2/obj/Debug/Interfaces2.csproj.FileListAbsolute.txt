@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Interfaces2\Interfaces2\bin\Debug\Interfaces2.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Interfaces2\Interfaces2\bin\Debug\Interfaces2.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Interfaces2\Interfaces2\bin\Debug\Interfaces2.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Interfaces2\Interfaces2\obj\Debug\Interfaces2.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Interfaces2\Interfaces2\obj\Debug\Interfaces2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Interfaces2\Interfaces2\obj\Debug\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Interfaces2\Interfaces2\obj\Debug\Interfaces2.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\Interfaces2\Interfaces2\obj\Debug\Interfaces2.pdb
