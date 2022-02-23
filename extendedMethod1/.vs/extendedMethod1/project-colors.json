@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee98f183-0a75-4009-9998-d681a2d5f519": {
+      "ProjectGuid": "ee98f183-0a75-4009-9998-d681a2d5f519",
+      "DisplayName": "extendedMethod1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

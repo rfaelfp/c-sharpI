@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\set1\set1\bin\Debug\set1.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\set1\set1\bin\Debug\set1.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\set1\set1\bin\Debug\set1.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\set1\set1\obj\Debug\set1.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\set1\set1\obj\Debug\set1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\set1\set1\obj\Debug\set1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\set1\set1\obj\Debug\set1.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\set1\set1\obj\Debug\set1.pdb

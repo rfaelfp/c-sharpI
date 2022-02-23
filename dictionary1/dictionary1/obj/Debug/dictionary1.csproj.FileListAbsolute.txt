@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\dictionary1\dictionary1\bin\Debug\dictionary1.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\dictionary1\dictionary1\bin\Debug\dictionary1.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\dictionary1\dictionary1\bin\Debug\dictionary1.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\dictionary1\dictionary1\obj\Debug\dictionary1.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\dictionary1\dictionary1\obj\Debug\dictionary1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\dictionary1\dictionary1\obj\Debug\dictionary1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\dictionary1\dictionary1\obj\Debug\dictionary1.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\dictionary1\dictionary1\obj\Debug\dictionary1.pdb

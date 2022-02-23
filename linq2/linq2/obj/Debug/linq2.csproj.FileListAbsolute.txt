@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq2\linq2\bin\Debug\linq2.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq2\linq2\bin\Debug\linq2.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq2\linq2\bin\Debug\linq2.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq2\linq2\obj\Debug\linq2.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq2\linq2\obj\Debug\linq2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq2\linq2\obj\Debug\linq2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq2\linq2\obj\Debug\linq2.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq2\linq2\obj\Debug\linq2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\delegateFunc\delegateFunc\bin\Debug\delegateFunc.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\delegateFunc\delegateFunc\bin\Debug\delegateFunc.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\delegateFunc\delegateFunc\bin\Debug\delegateFunc.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\delegateFunc\delegateFunc\obj\Debug\delegateFunc.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\delegateFunc\delegateFunc\obj\Debug\delegateFunc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\delegateFunc\delegateFunc\obj\Debug\delegateFunc.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\delegateFunc\delegateFunc\obj\Debug\delegateFunc.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\delegateFunc\delegateFunc\obj\Debug\delegateFunc.pdb

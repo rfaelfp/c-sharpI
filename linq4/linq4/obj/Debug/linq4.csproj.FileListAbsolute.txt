@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq4\linq4\bin\Debug\linq4.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq4\linq4\bin\Debug\linq4.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq4\linq4\bin\Debug\linq4.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq4\linq4\obj\Debug\linq4.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq4\linq4\obj\Debug\linq4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq4\linq4\obj\Debug\linq4.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq4\linq4\obj\Debug\linq4.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\linq4\linq4\obj\Debug\linq4.pdb

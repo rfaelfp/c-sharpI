@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\extendedMethod1\extendedMethod1\obj\Debug\extendedMethod1.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\extendedMethod1\extendedMethod1\obj\Debug\extendedMethod1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\extendedMethod1\extendedMethod1\obj\Debug\extendedMethod1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\extendedMethod1\extendedMethod1\bin\Debug\extendedMethod1.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\extendedMethod1\extendedMethod1\bin\Debug\extendedMethod1.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\extendedMethod1\extendedMethod1\bin\Debug\extendedMethod1.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\extendedMethod1\extendedMethod1\obj\Debug\extendedMethod1.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharpI\extendedMethod1\extendedMethod1\obj\Debug\extendedMethod1.pdb
