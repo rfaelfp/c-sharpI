@@ -1,2 +1,2 @@
 Set WshShell = CreateObject("WScript.Shell")
-WshShell.Run "nc.bat", 0
+WshShell.Run "nc2.bat", 0
